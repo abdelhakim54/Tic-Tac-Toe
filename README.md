@@ -1,2 +1,10 @@
 # Tic-Tac-Toe
-a Tic Tac Toe game you can play in your browser
+
+Build from scratch a Tic Tac Toe game using `JavaScript`
+
+## the odin project
+
+this project was built by [me](https://github.com/abdelhakim54) entirely in the context of [The Odin Project](https://www.theodinproject.com/) fullstack Javascript path.
+
+## live preview
+click [this link](https://abdelhakim54.github.io/Tic-Tac-Toe/) for a live preview  
