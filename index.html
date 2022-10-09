@@ -11,16 +11,8 @@
 <body>
     <h1>Tic Tac Toe</h1>
     <div class="main">
-        <div class="header">
-            <select name="level" id="level">
-                <option value="easy">easy</option>
-                <option value="medium">medium</option>
-                <option value="hard">hard</option>
-            </select>
-        </div>
-        <div class="choice">
-            <div id="cross">X</div>
-            <div id="cercle">O</div>
+        <div class="display-controller">
+            Player x's Turn
         </div>
         <div class="game">
             <div class="grid">
@@ -37,6 +29,13 @@
         </div>
         <div class="restart">
             <button id="restart">Restart</button>
+        </div>
+    </div>
+
+    <div class="end-game-modal">
+        <div class="modal">
+            <p>The Winner is O</p>
+            <button id="restart-game">Play Again</button>
         </div>
     </div>
 </body>
